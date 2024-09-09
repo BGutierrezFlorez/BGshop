@@ -1,0 +1,2 @@
+# BGshop
+proyecto E-commerce
